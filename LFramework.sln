@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFramework.CSharp", "LFramework.CSharp.csproj", "{8ADC6F66-B52D-779D-71AC-5A7526E108BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFramework.CSharp.Editor", "LFramework.CSharp.Editor.csproj", "{20463990-24AF-3135-3A7E-2244A1CE451C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADC6F66-B52D-779D-71AC-5A7526E108BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADC6F66-B52D-779D-71AC-5A7526E108BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADC6F66-B52D-779D-71AC-5A7526E108BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADC6F66-B52D-779D-71AC-5A7526E108BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20463990-24AF-3135-3A7E-2244A1CE451C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20463990-24AF-3135-3A7E-2244A1CE451C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20463990-24AF-3135-3A7E-2244A1CE451C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20463990-24AF-3135-3A7E-2244A1CE451C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
